@@ -1,0 +1,11 @@
+.container>img{
+    
+    
+    height: 200px;
+    width: 200px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
